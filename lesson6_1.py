@@ -1,6 +1,6 @@
 import time
 class TrafficLight:
-    _color = "Red, Green, Yellow"
+    __color = "Red, Green, Yellow"
     def running(self):
         while True:
             print("Red")
