@@ -1,3 +1,4 @@
+#1
 import time
 class TrafficLight:
     __color = "Red, Yellow, Green"

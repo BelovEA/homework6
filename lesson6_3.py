@@ -1,3 +1,4 @@
+#3
 class Worker:
     def __init__(self, name, surname, position, prof, bonus):
         self.name = name
