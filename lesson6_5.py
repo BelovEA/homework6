@@ -1,3 +1,4 @@
+#5
 class Stationery:
     def __init__(self, title="возьмите в руку карандаш, ручку или маркер"):
         self.title = title
